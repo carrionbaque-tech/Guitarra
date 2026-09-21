@@ -1,72 +1,96 @@
- Eb
+INTRO: C9 - G
+
+VERSO
+ C9
   Muros rodeando estoy
- Bb/D
+ G
   pensé que caerían hoy
- Eb                        Bb
+ C9                        G
   mas nunca me has fallado Dios
- Eb
+ C9
   la espera terminará
- Bb/D
+ G
   sé que has vencido ya
- Eb                   Bb
+ C9                   G
  nunca me has fallado Dios
 
 
 CORO:
 
- Gm          F
+ Em7           D/F#
   En Ti confiaré
-            Bb
+             G
  Tu promesa sigue en pié
-    Eb
+    C9
  Tú eres fiel
- Gm            F
+ Em7            D/F#
   confiado andaré
-              Bb
+                  G
  en Tus manos estaré
-      Eb         Bb/D
+     C9                 //G - C9//
  siempre has sido fiel
 
+VERSO 2
 
-INTRO: Eb Bb/D
-
-
- Eb
+C9
  La noche acabará
- Bb/D
+ G
   Tu Palabra se cumplirá
- Eb                Bb
+ C9                G
  mi corazón te alabará
- Eb
+ C9
   Cristo, mi Salvador
-Bb/D
+G
   cúbreme con Tu amor
- Eb               Bb
+ C9               G
  mi corazón te alabará
 
+CORO:
 
-//(CORO)//
+ Em7           D/F#
+  En Ti confiaré
+             G
+ Tu promesa sigue en pié
+    C9
+ Tú eres fiel
+ Em7            D/F#
+  confiado andaré
+                  G
+ en Tus manos estaré
+     C9
+ siempre has sido fiel X2
 
+INTERMEDIO: // G/B - C9   G/B - C9
+               D/F# - G   D/F# - G //
 
- //Bb/D - Eb
-  F/A - Bb//
-
-
-//Bb/D - Eb
+ G/B - C9
            Yo sé que Tú
- Bb/D - Eb
+ G/B - C9
            mueves montañas
- F/A  - Bb
+ D/F# - G
            yo creo en Ti
- F/A  - Bb
+ D/F# - G
            sé que lo harás otra vez
- Bb/D - Eb
+ G/B - C9
            abriste el mar
- Bb/D - Eb
+ G/B - C9
            en el desierto
- F/A  - Bb
+ D/F# - G
            yo creo en Ti
- F/A  - Bb
-           sé que lo harás otra vez//
+ D/F# - G
+           sé que lo harás otra vez  X2
 
-//(CORO)//
+CORO:
+
+ Em7           D/F#
+  En Ti confiaré
+             G
+ Tu promesa sigue en pié
+    C9
+ Tú eres fiel
+ Em7            D/F#
+  confiado andaré
+                  G
+ en Tus manos estaré
+     C9
+ siempre has sido fiel
