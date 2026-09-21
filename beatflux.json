@@ -1,0 +1,865 @@
+{
+  "version": 3,
+  "recomendados": {
+    "slider": [
+      {
+        "image": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/generos.jpg",
+        "title": "Todas los generos Cristianos",
+        "subtitle": "Solo en Beatflux",
+        "action": "playlist:flow_001"
+      },
+      {
+        "image": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/unosolo.jpg",
+        "title": "Jesús es uno solo",
+        "subtitle": "Recuerdalo",
+        "action": "playlist:coros_top"
+      },
+      {
+        "image": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/devias.jpg",
+        "title": "Siente la presencia de Dios",
+        "subtitle": "Hnos Devias",
+        "action": "playlist:navidad"
+      }
+    ],
+    "categories": [
+      {
+        "id": "recomendados",
+        "name": "Recomendados",
+        "image": "https://raw.githubusercontent.com/carrionbaque-tech/beatflux/refs/heads/main/ic_app_logo.png"
+      },
+      {
+        "id": "videos",
+        "name": "Videos",
+        "image": "https://raw.githubusercontent.com/carrionbaque-tech/beatflux/refs/heads/main/ic_app_logo.png"
+      },
+      {
+        "id": "coros",
+        "name": "Coros",
+        "image": "https://raw.githubusercontent.com/carrionbaque-tech/beatflux/refs/heads/main/ic_app_logo.png"
+      },
+      {
+        "id": "himnos",
+        "name": "Himnos",
+        "image": "https://raw.githubusercontent.com/carrionbaque-tech/beatflux/refs/heads/main/ic_app_logo.png"
+      },
+      {
+        "id": "especial",
+        "name": "Especial",
+        "image": "https://raw.githubusercontent.com/carrionbaque-tech/beatflux/refs/heads/main/ic_app_logo.png"
+      },
+      {
+        "id": "ninos",
+        "name": "Niños",
+        "image": "https://raw.githubusercontent.com/carrionbaque-tech/beatflux/refs/heads/main/ic_app_logo.png"
+      },
+      {
+        "id": "artistas",
+        "name": "Artistas",
+        "image": "https://raw.githubusercontent.com/carrionbaque-tech/beatflux/refs/heads/main/ic_app_logo.png"
+      }
+    ],
+    "songs": [
+      {
+        "id": "s1",
+        "title": "Te Necesito",
+        "artist": "Arqueles Ascanio",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_aOQXsgBjj7MeQmAb1szwSUNoU1itvW95Wmxa5gw_n3qHGv0dSAy90U&s=10",
+        "url": "https://vidcache.net:8161/static/cded51f9a6eb533877912192f70594ec3dcb31a9/Aquerles Ascanio - Te Necesito.mp3",
+        "karaoke": "https://files.catbox.moe/2wfmfl.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Aquerles%20Ascanio%20-%20Te%20Necesito.lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Te%20necesito.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Te%20necesito.txt"
+      },
+      {
+        "id": "s2",
+        "title": "Oh Alma Mía",
+        "artist": "Voceros de Cristo",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILuAdm3ZxoeCYvRIQo395pgJsAv8YI4DAoD_u57DL7uaFGPr8QK7XURAU&s=10",
+        "url": "https://vidcache.net:8161/static/0cb6a68029ad860298b307c1feb2c2e88111d2f1/Oh Alma Mía Los Voceros de Cristo.mp3",
+        "karaoke": "https://files.catbox.moe/llx1xs.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Los%20Voceros%20de%20Cristo%20-%20Oh%20alma%20m%C3%ADa.lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/oh_alma_mia.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/oh_alma_mia.txt"
+      },
+      {
+        "id": "s3",
+        "title": "Nunca me faltes tú",
+        "artist": "Elkin Arias",
+        "cover": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/3/7/8e372087332d88aa85ab8c33bb23b2fd.jpg",
+        "url": "https://vidcache.net:8161/static/503f81d39afa83d8aac6abb6add9e780e5ef8378/Nunca me faltes tú - Elkin Arias (Video Oficial).mp3",
+        "karaoke": "https://files.catbox.moe/pn5f94.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Nunca%20me%20faltes%20t%C3%BA%20-%20Elkin%20Arias%20(Video%20Oficial).srt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/nunca_me_faltes_tu.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/nunca_me_faltes_tu.txt"
+      },
+      {
+        "id": "s4",
+        "title": "Ven Llena Mi Vida",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://files.catbox.moe/6xqird.mp3",
+        "karaoke": "https://files.catbox.moe/ay5d7a.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Duo%20Hermanos%20Devia%20-%20Ven%20Llena%20Mi%20Vida%20(feat.%20Edgar%20Devia).lrc",
+        "guitar": "",
+        "piano": ""
+      }
+    ],
+    "news": [
+      {
+        "id": "n1",
+        "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/ic_app_logo.png",
+        "title": "Beatflux lanza nueva función",
+        "subtitle": "Modo offline disponible",
+        "description": "Ahora puedes escuchar sin conexión...",
+        "content": "Texto completo de la noticia...",
+        "video": "https://youtu.be/25jrtnBDB6M?si=Lzc1qxvsHVA9ji_q",
+        "link": "https://beatflux.app/novedades",
+        "buttonText": "Ver más",
+        "date": "2025-01-15"
+      },
+      {
+        "id": "n2",
+        "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/news/n2.jpg",
+        "title": "Top 10 Coros del mes",
+        "subtitle": "Ranking actualizado",
+        "description": "Descubre los coros más escuchados...",
+        "content": "Contenido completo...",
+        "video": "",
+        "link": "",
+        "buttonText": "",
+        "date": "2025-01-10"
+      }
+    ]
+  },
+  "videos": {
+    "categories": [
+      {
+        "id": "coros",
+        "name": "Coros",
+        "videos": [
+          {
+            "id": "v1",
+            "title": "Coros en Vivo",
+            "artist": "Comunidad",
+            "cover": "https://static.vecteezy.com/system/resources/thumbnails/060/843/811/small/close-up-of-raindrops-on-leaves-hd-background-luxury-hd-wallpaper-image-trendy-background-illustration-free-photo.jpg",
+            "url": "https://rumble.com/hls-vod/BAJi8Hql2Xc/playlist.m3u8?key=wCu0HinEcSSwI-fyy2sxKutTeW9OKMP-79VWAMNIAmvu9HOm7RY8zw&u=0&b=0",
+            "type": "hls"
+          },
+          {
+            "id": "v2",
+            "title": "Coro Juvenil",
+            "artist": "Jóvenes",
+            "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/videos/v2.jpg",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+            "type": "hls"
+          },
+          {
+            "id": "v3",
+            "title": "Coro Clásico",
+            "artist": "Tradición",
+            "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/videos/v3.jpg",
+            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "type": "mp4"
+          }
+        ]
+      },
+      {
+        "id": "himnos",
+        "name": "Himnos",
+        "videos": [
+          {
+            "id": "v4",
+            "title": "Himno Clásico 1",
+            "artist": "Tradicional",
+            "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/videos/v4.jpg",
+            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "type": "mp4"
+          }
+        ]
+      },
+      {
+        "id": "especial",
+        "name": "Especial",
+        "videos": [
+          {
+            "id": "v5",
+            "title": "Navidad Especial",
+            "artist": "Varios",
+            "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/videos/v5.jpg",
+            "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+            "type": "hls"
+          }
+        ]
+      },
+      {
+        "id": "ninos",
+        "name": "Niños",
+        "videos": [
+          {
+            "id": "v6",
+            "title": "Cantos Infantiles",
+            "artist": "Kids",
+            "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/videos/v6.jpg",
+            "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "type": "youtube"
+          }
+        ]
+      },
+      {
+        "id": "artistas",
+        "name": "Artistas",
+        "videos": [
+          {
+            "id": "v7",
+            "title": "Entrevista Beatflux",
+            "artist": "Beatflux",
+            "cover": "https://pub-26301010f15e4be5bfc7a5422df0316f.r2.dev/videos/v7.jpg",
+            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            "type": "mp4"
+          }
+        ]
+      }
+    ]
+  },
+  "coros": {
+    "songs": [
+      {
+        "id": "c1",
+        "title": "Grande Y Fuerte",
+        "artist": "Miel San Marcos",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLgrCyU6HDsMAQ8RlWBqxmmhOBtV5ktAnKHr-X5ixHg&s=10",
+        "url": "https://vidcache.net:8161/static/ee05b0472d704a50f2ea4884049eec02398ba921/grande_y_fuerte_miel_san_marcos_mp3_77744.mp3",
+        "karaoke": "",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Miel%20San%20Marcos%20-%20Grande%20y%20Fuerte%20(feat.%20Thalles%20Roberto)%20(1).lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/grande_y_fuerte-7.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/grande_y_fuerte-7.txt"
+      }
+    ]
+  },
+  "himnos": {
+    "songs": [
+      {
+        "id": "h1",
+        "title": "",
+        "artist": "Tradicional",
+        "cover": "",
+        "url": "",
+        "karaoke": "",
+        "lyrics": ""
+      }
+    ]
+  },
+  "especial": {
+    "songs": [
+      {
+        "id": "e1",
+        "title": "Alaba A Dios",
+        "artist": "Danny Berrios",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUazLEZ8DMNBD2tyPeu1_I--lN2LRvziJ1Y3x4Z8OTbA&s=10",
+        "url": "https://vidcache.net:8161/static/5a092d585d27790357cd964b8970f6abbea105e5/danny_berrios_alaba_a_dios_video_lyric_mp3_71412.mp3",
+        "karaoke": "https://files.catbox.moe/eqybu0.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/danny_berrios_alaba_a_dios_video_lyric_mp3_71412.srt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/alaba_a_dios-2.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/alaba_a_dios-2.txt"
+      },
+      {
+        "id": "e2",
+        "title": "Te Amo Señor",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://vidcache.net:8161/static/5ca002d4ca684354e437f510e0244364b9457dc9/Te Amo Señor [vZ_U3_VeWc8].mp3",
+        "karaoke": "https://files.catbox.moe/waitf5.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Te%20Amo%20Se%C3%B1or.txt",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e3",
+        "title": "Vida y Libertad",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://vidcache.net:8161/static/9f7f273c29765132c70f302b35ef78561d8c2b2f/Vida y Libertad Dúo Clásico Hermanos Devia (Edgar Devia Jhon R Devia).mp3",
+        "karaoke": "https://files.catbox.moe/wwzf5f.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/vida_y_libertad.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/vida_y_libertad.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/vida_y_libertad.txt"
+      },
+      {
+        "id": "e4",
+        "title": "Nunca me faltes tú",
+        "artist": "Elkin Arias",
+        "cover": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/3/7/8e372087332d88aa85ab8c33bb23b2fd.jpg",
+        "url": "https://vidcache.net:8161/static/503f81d39afa83d8aac6abb6add9e780e5ef8378/Nunca me faltes tú - Elkin Arias (Video Oficial).mp3",
+        "karaoke": "https://files.catbox.moe/pn5f94.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Nunca%20me%20faltes%20t%C3%BA%20-%20Elkin%20Arias%20(Video%20Oficial).srt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/nunca_me_faltes_tu.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/nunca_me_faltes_tu.txt"
+      },
+      {
+        "id": "e5",
+        "title": "Ven Llena Mi Vida",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://files.catbox.moe/6xqird.mp3",
+        "karaoke": "https://files.catbox.moe/ay5d7a.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Duo%20Hermanos%20Devia%20-%20Ven%20Llena%20Mi%20Vida%20(feat.%20Edgar%20Devia).lrc",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e6",
+        "title": "Vuelve a Dios",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://vidcache.net:8161/static/0034acc224af0dce7937a1e8f852d7f5d63eab6f/Vuelve a Dios [uk08_jwdBOs].mp3",
+        "karaoke": "https://files.catbox.moe/rw6ajm.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Duo%20Hermanos%20Devia%20-%20Vuelve%20a%20Dios%20(feat.%20Edgar%20Devia).lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Vuelve%20a%20Dios.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Vuelve%20a%20Dios.txt"
+      },
+      {
+        "id": "e7",
+        "title": "Creo en Ti",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://files.catbox.moe/c6fhn1.mp3",
+        "karaoke": "https://files.catbox.moe/l6cd3o.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/D%C3%BAo%20Hermanos%20Devia%20-%20Creo%20en%20Ti.srt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Creo%20en%20ti.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Creo%20en%20ti.txt"
+      },
+      {
+        "id": "e8",
+        "title": "Si Fui Motivo",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://vidcache.net:8161/static/c12a80a82537630771395113993a06a55b956dd0/Si Fui Motivo [J6C4jZhCSp8].mp3",
+        "karaoke": "https://files.catbox.moe/8ryrpr.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Si%20fui%20motivo.txt",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e9",
+        "title": "Oh Alma Mía",
+        "artist": "Voceros de Cristo",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSILuAdm3ZxoeCYvRIQo395pgJsAv8YI4DAoD_u57DL7uaFGPr8QK7XURAU&s=10",
+        "url": "https://vidcache.net:8161/static/0cb6a68029ad860298b307c1feb2c2e88111d2f1/Oh Alma Mía Los Voceros de Cristo.mp3",
+        "karaoke": "https://files.catbox.moe/llx1xs.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Los%20Voceros%20de%20Cristo%20-%20Oh%20alma%20m%C3%ADa.lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/oh_alma_mia.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/oh_alma_mia.txt"
+      },
+      {
+        "id": "e10",
+        "title": "Te Necesito",
+        "artist": "Arqueles Ascanio",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7_aOQXsgBjj7MeQmAb1szwSUNoU1itvW95Wmxa5gw_n3qHGv0dSAy90U&s=10",
+        "url": "https://vidcache.net:8161/static/cded51f9a6eb533877912192f70594ec3dcb31a9/Aquerles Ascanio - Te Necesito.mp3",
+        "karaoke": "https://files.catbox.moe/2wfmfl.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Aquerles%20Ascanio%20-%20Te%20Necesito.lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Te%20necesito.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Te%20necesito.txt"
+      },
+      {
+        "id": "e11",
+        "title": "Vestido de Blanco",
+        "artist": "Mokara",
+        "cover": "https://akamai.sscdn.co/uploadfile/letras/fotos/d/e/d/3/ded3347bdb7a24664f740778c068a761.jpg",
+        "url": "https://vidcache.net:8161/static/4e9feffbc74958f2d5f093a23a8bb89b017b49ed/Mokara Vestido de Blanco Letra Acordes.mp3",
+        "karaoke": "https://files.catbox.moe/oy3x07.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Vestido%20de%20Blanco.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Vestido%20de%20Blanco.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Vestido%20de%20Blanco.txt"
+      },
+      {
+        "id": "e12",
+        "title": "Si Amarte",
+        "artist": "Ministerio Sion",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYXP1ZXIuPqwa_s_lakR1Q7AFUcmWQuHk9HTdCIIn8vjg2xVDbh8XMWf0&s=10",
+        "url": "https://vidcache.net:8161/static/72d86ec7695f323c7798fcfeeac3eb44760b0e09/Ministerio Sion, Solangie Rodriguez - Si Amarte (Cover) [En Vivo] [ot0wECxrOfg].mp3",
+        "karaoke": "https://files.catbox.moe/az6qcf.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Ministerio%20Sion%20%26%20Solangie%20Rodriguez%20-%20Si%20Amarte.lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/si_amarte_significa.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/si_amarte_significa.txt"
+      },
+      {
+        "id": "e13",
+        "title": "Quiero Hablar Contigo",
+        "artist": "Elkin Arias",
+        "cover": "https://akamai.sscdn.co/uploadfile/letras/fotos/8/e/3/7/8e372087332d88aa85ab8c33bb23b2fd.jpg",
+        "url": "https://vidcache.net:8161/static/4c7c46a6a66336fb30ef39dcec5119dfc5a60aea/Quiero Hablar Contigo - Elkin Arias (Video Oficial).mp3",
+        "karaoke": "https://files.catbox.moe/xfdskb.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Quiero%20hablar%20contigo.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Quiero%20hablar%20contigo.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Quiero%20hablar%20contigo.txt"
+      },
+      {
+        "id": "e14",
+        "title": "Mi Buen Amigo",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://vidcache.net:8161/static/c6ea16b06513bf859be4f458887e40a4b13011fc/Mi Buen Amigo [56l5lCg-GyI].mp3",
+        "karaoke": "https://files.catbox.moe/xzrqe6.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/mi%20buen%20amigo.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/mi%20buen%20amigo.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/mi%20buen%20amigo.txt"
+      },
+      {
+        "id": "e15",
+        "title": "No se puede Vivir sin ti Señor",
+        "artist": "Hermanos Novoa",
+        "cover": "https://i.scdn.co/image/ab6761610000e5eb4832875536adbaf390aa87d3",
+        "url": "https://vidcache.net:8161/static/c71f85c3413f24b6fd77da6c425198e98a4331c2/No se puede Vivir sin ti Señor Hnos. novoa.mp3",
+        "karaoke": "https://files.catbox.moe/7alsvf.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/No%20puedo%20vivir%20sin%20el%20Se%C3%B1or%20de%20Hermanos%20Novoa.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/No%20puedo%20vivir%20sin%20el%20Se%C3%B1or%20de%20Hermanos%20Novoa.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/No%20puedo%20vivir%20sin%20el%20Se%C3%B1or%20de%20Hermanos%20Novoa.txt"
+      },
+      {
+        "id": "e16",
+        "title": "No Hay Nadie Como Dios",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://vidcache.net:8161/static/6bfb9066d9bca1c942f724ae9072c5cbb27b9b67/No Hay Nadie Como Dios [3mzUioSH2ps].mp3",
+        "karaoke": "https://files.catbox.moe/l75mpn.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Duo%20Hermanos%20Devia%20-%20No%20Hay%20Nadie%20Como%20Dios%20(feat.%20Edgar%20Devia).lrc",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e17",
+        "title": "Amor Inmensurable",
+        "artist": "Juan Carlos Devia",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hP7l8XbsW1rNu8w9y4VXMRGmVdD7WgRGvleePESKuA&s=10",
+        "url": "https://vidcache.net:8161/static/c72399f94e80cb45e62789bd9bb28818393eb54f/Juan Carlos Devia - Amor Inmensurable (Letra).mp3",
+        "karaoke": "https://files.catbox.moe/i3xuck.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Los%20Voceros%20de%20Cristo%20-%20Amor%20inmensurable.lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/amor_inmensurable.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/amor_inmensurable.txt"
+      },
+      {
+        "id": "e18",
+        "title": "Vacio Vacio",
+        "artist": "Juan Carlos Devia",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8hP7l8XbsW1rNu8w9y4VXMRGmVdD7WgRGvleePESKuA&s=10",
+        "url": "https://vidcache.net:8161/static/c7251a749ff0b519a618d5743cad6d44d239374b/Vacio Vacio",
+        "karaoke": "https://files.catbox.moe/x8ygww.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Vacio%20VACIO.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Vacio%20VACIO.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Vacio%20VACIO.txt"
+      },
+      {
+        "id": "e19",
+        "title": "Amigo ideal",
+        "artist": "Hnos Devias",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRZb9Fx7uEVGwjPPJqDLZj35IhzCi-Vbo5tU73srF6fJZU77OdbC4oEyB4&s=10",
+        "url": "https://vidcache.net:8161/static/dd8fbaa72f1b5f14efe1941c455f52f5060e769c/Amigos ideal.mp3",
+        "karaoke": "https://files.catbox.moe/807f39.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Amigo%20ideal.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Amigo%20ideal.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Amigo%20ideal.txt"
+      },
+      {
+        "id": "e20",
+        "title": "Espera el tiempo de Dios",
+        "artist": "Isaac Valdez",
+        "cover": "https://yt3.googleusercontent.com/v0lYEEyb_P1G_vHpe-ER90NB8hF0uS2q_gyX_bhPSHW63fKdqcBZO2ph8VC3W0QLXBpVsk1d=s900-c-k-c0x00ffffff-no-rj",
+        "url": "https://vidcache.net:8161/static/1a5d3bd416633c2f27d17dc14c6d3c25385b86e7/Espera el tiempo de Dios.mp3",
+        "karaoke": "https://files.catbox.moe/4ff3lq.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Espera%20el%20tiempo%20de%20Dios.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Espera%20el%20tiempo%20de%20Dios.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Espera%20el%20tiempo%20de%20Dios.txt"
+      },
+      {
+        "id": "e21",
+        "title": "El rey te mandó a llamar",
+        "artist": "Danny Berrios",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUazLEZ8DMNBD2tyPeu1_I--lN2LRvziJ1Y3x4Z8OTbA&s=10",
+        "url": "https://vidcache.net:8161/static/e19340e5903edd5e8baf2ffc861d132c1fea7b4e/El rey te mandó a llamar",
+        "karaoke": "https://files.catbox.moe/53zhwf.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/El%20rey%20te%20mando%20a%20llamar.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/El%20rey%20te%20mando%20a%20llamar.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/El%20rey%20te%20mando%20a%20llamar.txt"
+      },
+      {
+        "id": "e21",
+        "title": "Hermoso Momento",
+        "artist": "Kairo Worship",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jcug4VpSMlV2HTRPa7jMO5jYqJu91xcuR26Orj26hw&s=10",
+        "url": "https://vidcache.net:8161/static/6aff78054b28e3ca28f3ac11487fc2112a7f1ce8/Hermoso Momento.mp3",
+        "karaoke": "https://files.catbox.moe/0idner.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Hermoso%20momento.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Hermoso%20momento.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Hermoso%20momento.txt"
+      },
+      {
+        "id": "e22",
+        "title": "Inexplicable",
+        "artist": "Denicher Pol",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qWstA1iyHPny1y-bF_uZE9HZYCdkPQ6F5NqAUiudxbcIOVItXhUO1Eok&s=10",
+        "url": "https://vidcache.net:8161/static/19808ba6831423fba2b2439594461c3e81969d21/Denicher_Pol_-_Inexplicable_Cover.mp3",
+        "karaoke": "https://files.catbox.moe/t5ms3o.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Denicher%20Pol%20-%20Inexplicable.lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/inexplicable.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/inexplicable.txt"
+      },
+      {
+        "id": "e23",
+        "title": "Quién como Él",
+        "artist": "Natalie Billini",
+        "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdUQfFsNs7fh6TA_aq7wB1cOfl3HCMmhpe1koNBuktFU7OMKJd2W_ezmDwAI-Gl_LR1TEOWdfmoH5z630x8azpzslaKf2v0DalVKlaqjWWoZlbwaNdZmlJm0so4fr1tUHaDKuWVb_lHzzM/s1600/Natalie+Billini+1+nueva+m%C3%BAsica+cristiana.jpg",
+        "url": "https://vidcache.net:8161/static/48162f2303d44604d839d63dacbd2a0178a403a0/Quién como Él Natalie Billini LETRA.mp3",
+        "karaoke": "https://files.catbox.moe/dcn690.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Quien%20como%20el.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Quien%20como%20el.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Quien%20como%20el.txt"
+      },
+      {
+        "id": "e24",
+        "title": "Himno De Victoria",
+        "artist": "Danny Berrios",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUazLEZ8DMNBD2tyPeu1_I--lN2LRvziJ1Y3x4Z8OTbA&s=10",
+        "url": "https://vidcache.net:8161/static/88114c02abb39a6b48e6b8cf304851b8cf8801ae/danny_berrios_himno_de_victoria_video_lyric_mp3_71564.mp3",
+        "karaoke": "https://files.catbox.moe/vdkzho.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Himno%20de%20victoria.txt",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Himno%20de%20victoria.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Himno%20de%20victoria.txt"
+      },
+      {
+        "id": "e25",
+        "title": "Todo se lo debo a el",
+        "artist": "Marcos Yaroide",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqiIDiWmNQIPRgRenpVkShF8q88FU3KOa_UlQArOD5J-AWWzo7xMEJVTn&s=10",
+        "url": "https://vidcache.net:8161/static/2f94ce0833702655d150caf3a4ea6e58e286165a/todo_se_lo_debo_a_el_marcos_yaroide_feat._divino_letra_c0194_mp3_71329.mp3",
+        "karaoke": "https://files.catbox.moe/6919wc.mp3",
+        "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/Marcos%20Yaroide%20-%20Todo%20Se%20Lo%20Debo%20a%20El%20(feat.%20Divino).lrc",
+        "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Todo%20se%20lo%20debo%20a%20el.txt",
+        "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/Todo%20se%20lo%20debo%20a%20el.txt"
+      },
+      {
+        "id": "e25",
+        "title": "Cristo eres tu",
+        "artist": "Marcela Gandara",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBymdqWrPyWx-MHhFehbdR2tE2nslNtyNDm3uTSuilB2Gh_PAzylp9Mak&s=10",
+        "url": "https://vidcache.net:8161/static/d1f3e0791eabd39895b062514dd79e685a16d3e6/cristo_eres_tu_mp3_69743.mp3",
+        "karaoke": "https://files.catbox.moe/7uy6fn.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e26",
+        "title": "Un destello de tu gloria",
+        "artist": "Jesus Adrian Romero",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Gfn7T0NhkWSMh9uip5J72spz5BubpHnLSV89_O_QLA72Af4wCXsgi4&s=10",
+        "url": "https://vidcache.net:8161/static/ccd216d6a74f212cf9ba5a6c47f9bd5d550cdb88/un_destello_de_tu_gloria_lyric_video_jesus_adrian_romero_mp3_69667.mp3",
+        "karaoke": "https://files.catbox.moe/1vrzri.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e27",
+        "title": "Por ti peleo yo",
+        "artist": "Isabelle Valdez",
+        "cover": "https://akamai.sscdn.co/letras/180x180/fotos/2/e/5/6/2e56176f205063cefb6989ff07d31278.jpg",
+        "url": "https://vidcache.net:8161/static/e19a54dc840787702cc776d12c440f478f37dc16/por_ti_peleo_yo_isabelle_video_oficial_mp3_69567.mp3",
+        "karaoke": "https://files.catbox.moe/wmjxw5.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e29",
+        "title": "Muestrame tu gloria",
+        "artist": "Jotta A",
+        "cover": "https://i.scdn.co/image/ab6761610000e5ebfc3e883e19746d84215705b5",
+        "url": "https://vidcache.net:8161/static/7fb55021f62369fab51b59491e19c2d99da28484/jotta_a_muestrame_tu_gloria_video_oficial_mp3_69487.mp3",
+        "karaoke": "https://files.catbox.moe/lk5417.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e30",
+        "title": "Al estar aquí",
+        "artist": "Danilo Montero",
+        "cover": "https://i.scdn.co/image/ab6761610000e5eb655614720a609045e3210ff1",
+        "url": "https://vidcache.net:8161/static/03a75642b34cbd3b9e1cb887e64ca41e3d006ade/al_estar_aqui_mp3_69422.mp3",
+        "karaoke": "https://files.catbox.moe/53drgd.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e31",
+        "title": "Ven espiritu Ven",
+        "artist": "Marco Barrientos",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuovptZdqlLzMpt435JJdVRwUjluxdtuWaespAdBYeI9HK5pO_cNt0pQ&s=10",
+        "url": "https://vidcache.net:8161/static/26933b5c1ef360db7752f0cac6d8eb85eb5b4307/marco_barrientos_ven_espiritu_ven_no_hay_nadie_como_tu_en_vivo_mp3_69280.mp3",
+        "karaoke": "https://files.catbox.moe/iba2wf.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e32",
+        "title": "Dios cuida de mi",
+        "artist": "Danny Berrios",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUazLEZ8DMNBD2tyPeu1_I--lN2LRvziJ1Y3x4Z8OTbA&s=10",
+        "url": "https://vidcache.net:8161/static/8f31c36be74145198eda3c2ea447fa75dcc23d46/danny_berrios_dios_cuida_de_mi_lyric_video_mp3_69183.mp3",
+        "karaoke": "https://files.catbox.moe/rwg5aq.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e33",
+        "title": "Que se abra el cielo",
+        "artist": "Gateway Worship",
+        "cover": "https://i.scdn.co/image/ab6761610000e5eb75a2bd3e24f45d6661607010",
+        "url": "https://vidcache.net:8161/static/3bb0ed542ca842e5f3f39982bb04627f15b55209/que_se_abra_el_cielo_gateway_worship_con_christine_d_clario_y_marcos_brunet_murallas_mp3_69090.mp3",
+        "karaoke": "https://files.catbox.moe/poke0y.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e34",
+        "title": "Precioso Jesús",
+        "artist": "Esperanza de Vida",
+        "cover": "https://cdn-images.dzcdn.net/images/cover/2d3dccecf18e14c620d1cd190f3fd3fb/0x1900-000000-80-0-0.jpg",
+        "url": "https://vidcache.net:8161/static/3146cdb0de4b8db67fbbb03622edf1457a8e7cdf/precioso_jesus_letra_esperanza_de_vida_mp3_68960.mp3",
+        "karaoke": "https://files.catbox.moe/xejg4a.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e35",
+        "title": "El padre que siempre soñé",
+        "artist": "Abel Zavala",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQynV2ZzhqNrbwKAzsAlgHM3ksXgDoPDLg0dHQIjb_qKw&s=10",
+        "url": "https://vidcache.net:8161/static/fc3133f0a134a06fa7ab215c00559c4a46a62b58/abel_zavala_el_padre_que_siempre_sone_letra_mp3_68821.mp3",
+        "karaoke": "https://files.catbox.moe/ej1awh.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e36",
+        "title": "Dios imparable",
+        "artist": "Marcos Witt",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRypPcJ8GMB690ZM2dd-ZrtGDCM5epIRmEqwB7BpGHS2g&s=10",
+        "url": "https://vidcache.net:8161/static/664f46d86924b55ef55bd42a051be306574da084/dios_imparable_marcos_witt_en_vivo_videoclip_oficial_mp3_68674.mp3",
+        "karaoke": "https://files.catbox.moe/z1tzbf.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e37",
+        "title": "El gran yo soy",
+        "artist": "Julissa",
+        "cover": "https://i.scdn.co/image/ab67616d00001e027a9dbdb868be456e059d2d7f",
+        "url": "https://vidcache.net:8161/static/3bddb1be5c434fd6fe50feeee406f6cc67a9d226/julissa_el_gran_yo_soy_official_video_mp3_68621.mp3",
+        "karaoke": "https://files.catbox.moe/fjdga2.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e38",
+        "title": "El poder de tu amor",
+        "artist": "Ingrid Rosario",
+        "cover": "https://amariemagazine.com/wp-content/uploads/2023/04/INGRID-ROSARIO-3-1170x1755.jpg",
+        "url": "https://vidcache.net:8161/static/7328514cac69fa7fef7b2dcb33451db37a07f22d/ingrid_rosario_el_poder_de_tu_amor_mp3_68470.mp3",
+        "karaoke": "https://files.catbox.moe/bsqf34.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e39",
+        "title": "Ven espiritu Santo",
+        "artist": "Barak",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6syZjTCARZIrQtmN6Gq0-XAme8qTR5QIuQyJUYioEoTRqrxxcfqGU_v0&s=10",
+        "url": "https://vidcache.net:8161/static/8a915e68b015eb7fffb101c51f18c86220341a37/barak_ven_espiritu_santo_live_dvd_generacion_sedienta_mp3_68354.mp3",
+        "karaoke": "https://files.catbox.moe/0xzp8x.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e40",
+        "title": "Mi universo",
+        "artist": "Jesus Adrian Romero",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Gfn7T0NhkWSMh9uip5J72spz5BubpHnLSV89_O_QLA72Af4wCXsgi4&s=10",
+        "url": "https://vidcache.net:8161/static/fc68dd2511f10b84d10050c0b09302d4f8dba45d/mi_universo_jesus_adrian_romero_mp3_68253.mp3",
+        "karaoke": "https://files.catbox.moe/5zm1ne.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e41",
+        "title": "No hay lugar mas alto",
+        "artist": "Miel San Marcos",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdLgrCyU6HDsMAQ8RlWBqxmmhOBtV5ktAnKHr-X5ixHg&s=10",
+        "url": "https://vidcache.net:8161/static/a4c7a6a7db61252297dfdc65022e6e90da705a1c/no_hay_lugar_mas_alto_feat_christine_d_clario_videoclip_oficial_miel_san_marcos_mp3_68106.mp3",
+        "karaoke": "https://files.catbox.moe/5it2nt.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e42",
+        "title": "La tierra canta",
+        "artist": "Barak",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6syZjTCARZIrQtmN6Gq0-XAme8qTR5QIuQyJUYioEoTRqrxxcfqGU_v0&s=10",
+        "url": "https://vidcache.net:8161/static/028412d187a01b1444c4331529a797e956095460/video_oficial_la_tierra_canta_radical_live_grupo_barak_mp3_67952.mp3",
+        "karaoke": "https://files.catbox.moe/66758m.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e43",
+        "title": "Suelto",
+        "artist": "Sarai Rivera",
+        "cover": "https://i.scdn.co/image/ab6761610000e5eb5981402c43ec1c598ed5a30a",
+        "url": "https://vidcache.net:8161/static/4b5d50b0fb79c3315023f884da4b036cdf03b31c/sarai_rivera_suelto_video_oficial_mp3_67876.mp3",
+        "karaoke": "https://files.catbox.moe/kdvwfi.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e44",
+        "title": "Creere",
+        "artist": "Tercer Cielo",
+        "cover": "https://images.genius.com/ae98d35bc9259530c54d9023cb1f443f.758x758x1.jpg",
+        "url": "https://vidcache.net:8161/static/66fd06a204cc33d983e5b7143dac0c976ebcbcd2/creere.mp3",
+        "karaoke": "https://files.catbox.moe/vtfkg5.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e45",
+        "title": "Levanto mis manos",
+        "artist": "Samuel Hernández",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPrmuPTMdyuOEDV2t9T7qeSDHMvm4NJdmozy_SF3-rQA&s=10",
+        "url": "https://vidcache.net:8161/static/228f06456c750fcfe18ef3b99d1b57f40827dd31/samuel_hernandez_levanto_mis_manos_gracias_senor_live_4k_hd_mp3_67524.mp3",
+        "karaoke": "https://files.catbox.moe/3a1p9n.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "46",
+        "title": "Lo haras otra vez",
+        "artist": "Elevation Worship",
+        "cover": "https://i.scdn.co/image/ab676161000051746fa137c74960a6a81f11ee70",
+        "url": "https://vidcache.net:8161/static/5a765a139eda7bd527abc713974f25b760106da0/lo_haras_otra_vez_do_it_again_video_oficial_con_letras_mp3_67365.mp3",
+        "karaoke": "https://files.catbox.moe/56w6au.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e47",
+        "title": "Esperar en ti",
+        "artist": "Jesús Adrián Romero",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Gfn7T0NhkWSMh9uip5J72spz5BubpHnLSV89_O_QLA72Af4wCXsgi4&s=10",
+        "url": "https://vidcache.net:8161/static/02e913f6988177160f1003cadd269493d318f0d1/esperar_en_ti_en_vivo_mp3_67108.mp3",
+        "karaoke": "https://files.catbox.moe/ts3x5l.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e48",
+        "title": "Tú",
+        "artist": "Dariann González",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVx33KOR6x9WEhKjsEz6dUdObWzEdtkx08uuwV9m5xvUmk0SEFKVRmmCJm&s=10",
+        "url": "https://vidcache.net:8161/static/156e66b0ad2c0d91af53916bfb9c88f22e51871a/tu_dariann_gonzalez_video_official_mp3_66806.mp3",
+        "karaoke": "https://files.catbox.moe/xipbhg.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e49",
+        "title": "Tal como soy",
+        "artist": "Jesus Adrian Romero",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1Gfn7T0NhkWSMh9uip5J72spz5BubpHnLSV89_O_QLA72Af4wCXsgi4&s=10",
+        "url": "https://vidcache.net:8161/static/4ad87269ce96f3ac5bcc8cbb3b777d191fc75158/tal_como_soy_mp3_66700.mp3",
+        "karaoke": "https://files.catbox.moe/k4wccg.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e50",
+        "title": "Vasija quebrantada",
+        "artist": "Felixis Falcón",
+        "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8YQfuNdNiJPU8bGCI9U_4vjn5wDiit4WEsPWjbSsp4WonGPW8AlfYgWQM&s=10",
+        "url": "https://vidcache.net:8161/static/4b7abf1f3759a586b3e83f6b0ad59b7347e0c007/SOY UNA VASIJA QUEBRANTADA ｜ LETRA [084044mSXBg].mp3",
+        "karaoke": "https://files.catbox.moe/a0oif6.mp3",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      },
+      {
+        "id": "e51",
+        "title": "",
+        "artist": "",
+        "cover": "",
+        "url": "",
+        "karaoke": "",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      }
+    ]
+  },
+  "ninos": {
+    "songs": [
+      {
+        "id": "k1",
+        "title": "",
+        "artist": "",
+        "cover": "",
+        "url": "",
+        "karaoke": "",
+        "lyrics": "",
+        "guitar": "",
+        "piano": ""
+      }
+    ]
+  },
+  "artistas": [
+    {
+      "id": "a1",
+      "name": "Danny Berrios",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUazLEZ8DMNBD2tyPeu1_I--lN2LRvziJ1Y3x4Z8OTbA&s=10",
+      "bio": "Artista musical.",
+      "songsCount": 42,
+      "songs": [
+        {
+          "id": "a1s1",
+          "title": "Alaba A Dios",
+          "artist": "Danny Berrios",
+          "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUazLEZ8DMNBD2tyPeu1_I--lN2LRvziJ1Y3x4Z8OTbA&s=10",
+          "url": "https://vidcache.net:8161/static/5a092d585d27790357cd964b8970f6abbea105e5/danny_berrios_alaba_a_dios_video_lyric_mp3_71412.mp3",
+          "karaoke": "https://github.com/carrionbaque-tech/especial_karaoke/blob/main/danny_berrios_alaba_a_dios_video_lyric_mp3_71412%20(Instrumental)%20(Mel-RoFormer%20by%20Gabox%20Fv7).mp3",
+          "lyrics": "https://raw.githubusercontent.com/carrionbaque-tech/letras_musicas/refs/heads/main/danny_berrios_alaba_a_dios_video_lyric_mp3_71412.srt",
+          "guitar": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/alaba_a_dios-2.txt",
+          "piano": "https://raw.githubusercontent.com/carrionbaque-tech/Guitarra/refs/heads/main/alaba_a_dios-2.txt"
+        }
+      ]
+    }
+  ]
+}
